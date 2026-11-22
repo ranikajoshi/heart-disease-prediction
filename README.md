@@ -1,4 +1,3 @@
-# heart-disease-prediction
 # ❤️ Heart Disease Prediction using Machine Learning
 
 A machine learning model that predicts whether a person has heart disease
